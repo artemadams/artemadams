@@ -1,4 +1,4 @@
-### Solutions Architect at MongoDB 💻 & Founder of LingoTime 🎓
+### Senior Solutions Architect at MongoDB 💻 & Founder of LingoTime 🎓
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/artemadams/)
 [![GitHub][github-shield]](https://github.com/artemadams)
